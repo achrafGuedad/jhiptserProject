@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.dxc.gestionsi"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "gestionSi",
+    "packageName": "com.dxc.gestionsi",
+    "packageFolder": "com/dxc/gestionsi",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDU4MjhkMmI2YTNmNWExMDFjMWU5ODkyZjJiMzBkZmI0YWNhNmJiZjBlYjZlNzc1NmEwYzE2OWRmOWU5ZGY5YjBiOGQ0YzE2ZTBjMWZlMTVjOWZmMGY1MmU5YTEyZjZhZTc4YjlkY2NmY2Q1NTliNDZhNzllNzQxMjI0MzAwODA=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
